@@ -1,0 +1,29 @@
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-image: url(https://images.pexels.com/photos/3975565/pexels-photo-3975565.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    font-size: 30px;
+}
+#submitButton{
+    padding: 10px 20px;
+
+   
+}
+.butinp{
+    display: flex;
+
+}
+
+
+span {
+    color: rgb(0, 0, 0);
+}
